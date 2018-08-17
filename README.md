@@ -37,7 +37,7 @@ repository
 (don't forget to add `-m` when committing to include a message!)
 
 **Note:** If you forget to include `-m` on when committing, you'll find you've
-opened _vi_, the built in terminal text editor. To escape out of this editor,
+opened _vi_, the built in terminal text git push -u origin mastereditor. To escape out of this editor,
 press the 'esc' key once, then type `:x!` to close the editor and return to the
 normal terminal.
 
